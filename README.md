@@ -69,7 +69,7 @@ https://github.com/heyharshiiii/RideSwiftly/assets/100566923/701ac6ff-f3fb-469d-
 ![photo_6176772410783677589_y](https://github.com/heyharshiiii/RideSwiftly/assets/100566923/14d08b7d-1c6e-4919-bdcb-958b9d1c2adc)
 ![photo_6176772410783677590_y](https://github.com/heyharshiiii/RideSwiftly/assets/100566923/29d2cbc2-1b42-4a5a-b456-d316241dd053)
 ![photo_6176772410783677591_y](https://github.com/heyharshiiii/RideSwiftly/assets/100566923/75dac801-9f42-44f1-a0dd-ca9bc38b4c70)
-![photo_6176772410783677592_y](https://github.com/heyharshiiii/RideSwiftly/assets/100566923/a6ddaab4-0e96-40e9-9499-32279061a812)
+
 
 ![Screenshot 2024-05-05 131522](https://github.com/heyharshiiii/RideSwiftly/assets/100566923/aff32b75-788d-4067-a53c-4ef8772a583b)
 
