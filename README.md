@@ -78,4 +78,4 @@ https://github.com/heyharshiiii/RideSwiftly/assets/100566923/701ac6ff-f3fb-469d-
 
 <hr>
 
- <h2> Made with ❤️ by <I>Harshita Acharya</I> </h2>
+ <h2> Made with ❤️ by <I>Meenal Gupta</I> </h2>
