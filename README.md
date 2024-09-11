@@ -58,11 +58,6 @@
         <p>LocationIQ APIs</p>
     </li>
 </ul>
-<h3 name="DemoVideo">A small Demo:📷</h3>
-
-
-
-https://github.com/heyharshiiii/RideSwiftly/assets/100566923/701ac6ff-f3fb-469d-9119-7f59bf55fc30
 
 <h3 name="screenshots">A few Screenshots:</h3>
 
